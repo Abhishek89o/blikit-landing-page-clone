@@ -1,0 +1,16 @@
+    .carousel-item img {
+      height: 450px;
+      width: auto;
+    
+    }
+      #slide-img {
+    flex: 0 0 10%;      /* har image ko 10% width */
+    max-width: 10%;
+
+  }
+ 
+
+  .container-fluid::-webkit-scrollbar{
+    display: none;
+  }
+  
